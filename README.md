@@ -18,3 +18,5 @@ When it comes to networking this project is utilizing:
 - **Validation** - for ammo changes etc.
 
 - Support environment-specific overrides via separate config files
+
+- Add proper error handling for invalid config so the app doesn't crash on startup
