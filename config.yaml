@@ -4,3 +4,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Correct the formula used for calculating the backoff delay
+
+# Bump minimum Python version to 3.10 and update type hints accordingly
