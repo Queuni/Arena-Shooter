@@ -20,3 +20,5 @@ When it comes to networking this project is utilizing:
 - Support environment-specific overrides via separate config files
 
 - Add proper error handling for invalid config so the app doesn't crash on startup
+
+- Handle the duplicate key case by merging the values instead of failing

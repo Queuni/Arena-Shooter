@@ -6,3 +6,5 @@
 # Handle missing optional field in the response without raising
 
 # Correct the default so it matches what the documentation says
+
+# Update documentation to reflect the new API and usage examples
