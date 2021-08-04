@@ -16,3 +16,5 @@
 # Refactor the helper to accept an optional callback for progress
 
 # Update the deployment docs with the new environment variables
+
+# Improve the CLI help text so it's clear how to use each option
