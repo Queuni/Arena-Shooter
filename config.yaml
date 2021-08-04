@@ -8,3 +8,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Fix race condition in the cache that could return stale data under load
+
+# Fix the memory leak in the long-running worker process
