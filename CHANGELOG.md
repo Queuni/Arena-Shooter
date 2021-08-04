@@ -9,3 +9,6 @@
 
 ## 2021-08-04
 - Clean up duplicate logic between the sync and async code paths
+
+## 2021-08-04
+- Simplify the config validation by using a declarative schema
