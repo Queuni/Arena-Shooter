@@ -12,3 +12,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Correct typo in the error message shown when validation fails
+
+# Refactor the helper to accept an optional callback for progress
