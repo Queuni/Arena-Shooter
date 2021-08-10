@@ -10,3 +10,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Remove obsolete workaround now that the upstream bug is fixed
