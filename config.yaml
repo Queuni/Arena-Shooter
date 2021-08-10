@@ -12,3 +12,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Implement a simple health check endpoint for the load balancer
+
+# Implement retry logic for the API client when the remote returns 5xx
