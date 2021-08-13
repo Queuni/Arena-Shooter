@@ -20,3 +20,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Support environment-specific overrides via separate config files
+
+# Remove the temporary debug endpoint before the release
