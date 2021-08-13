@@ -16,3 +16,5 @@
 # Implement retry logic for the API client when the remote returns 5xx
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Improve the default config so it works out of the box for dev
