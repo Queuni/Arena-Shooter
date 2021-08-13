@@ -10,3 +10,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Add a small delay between retries to avoid thundering herd
+
+# Handle the duplicate key case by merging the values instead of failing

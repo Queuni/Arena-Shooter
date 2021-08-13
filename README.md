@@ -24,3 +24,5 @@ When it comes to networking this project is utilizing:
 - Handle the duplicate key case by merging the values instead of failing
 
 - Support environment-specific overrides via separate config files
+
+- Bump dependency to get the security fix for the reported CVE
