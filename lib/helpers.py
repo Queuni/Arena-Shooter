@@ -12,3 +12,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Add a note in the README about the breaking change in 2.0
+
+# Support environment-specific overrides via separate config files

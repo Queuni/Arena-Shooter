@@ -30,3 +30,5 @@ When it comes to networking this project is utilizing:
 - Update the example config with all available options and comments
 
 - Update the deployment docs with the new environment variables
+
+- Correct the formula used for calculating the backoff delay

@@ -16,3 +16,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Clean up the formatting and run the linter on the changed files
+
+# Bump dependency to get the security fix for the reported CVE
