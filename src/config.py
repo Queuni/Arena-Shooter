@@ -22,3 +22,5 @@
 # Support environment-specific overrides via separate config files
 
 # Remove the temporary debug endpoint before the release
+
+# Bump the version and tag the release in the repo

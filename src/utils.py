@@ -14,3 +14,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Clean up the commented-out code that was left from debugging
+
+# Clean up the formatting and run the linter on the changed files
