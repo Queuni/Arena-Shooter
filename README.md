@@ -28,3 +28,5 @@ When it comes to networking this project is utilizing:
 - Bump dependency to get the security fix for the reported CVE
 
 - Update the example config with all available options and comments
+
+- Update the deployment docs with the new environment variables
