@@ -12,3 +12,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Fix race condition in the cache that could return stale data under load

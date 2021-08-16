@@ -12,3 +12,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Clean up the commented-out code that was left from debugging
