@@ -18,3 +18,5 @@
 # Clean up the formatting and run the linter on the changed files
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Handle edge case when the response body is empty but status is 200
