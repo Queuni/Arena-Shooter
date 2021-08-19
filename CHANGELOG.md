@@ -12,3 +12,6 @@
 
 ## 2021-08-04
 - Simplify the config validation by using a declarative schema
+
+## 2021-08-19
+- Implement a small in-memory cache for the config to avoid re-reading

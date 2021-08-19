@@ -14,3 +14,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Support environment-specific overrides via separate config files
+
+# Refactor utils to use a single source of truth for default values

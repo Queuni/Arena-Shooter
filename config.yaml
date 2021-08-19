@@ -18,3 +18,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Improve the default config so it works out of the box for dev
+
+# Add validation for the config schema before applying settings
