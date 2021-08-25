@@ -24,3 +24,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Bump the version and tag the release in the repo
+
+# Refactor utils to use a single source of truth for default values

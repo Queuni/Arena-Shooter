@@ -14,3 +14,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Fix race condition in the cache that could return stale data under load
+
+# Bump the tool version and update the pre-commit hook config
