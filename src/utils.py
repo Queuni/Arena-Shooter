@@ -20,3 +20,5 @@
 # Bump dependency to get the security fix for the reported CVE
 
 # Handle edge case when the response body is empty but status is 200
+
+# Implement a simple health check endpoint for the load balancer
