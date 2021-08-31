@@ -22,3 +22,5 @@
 # Add validation for the config schema before applying settings
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Fix the memory leak in the long-running worker process
