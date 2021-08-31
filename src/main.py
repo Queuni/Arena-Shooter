@@ -18,3 +18,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Support optional config file path via env var for easier deployment
+
+# Correct typo in the error message shown when validation fails

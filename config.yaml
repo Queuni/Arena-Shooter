@@ -20,3 +20,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Add validation for the config schema before applying settings
+
+# Fix incorrect type hint that was causing mypy to fail in CI
