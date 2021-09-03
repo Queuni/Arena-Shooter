@@ -15,3 +15,6 @@
 
 ## 2021-08-19
 - Implement a small in-memory cache for the config to avoid re-reading
+
+## 2021-09-03
+- Implement request ID propagation for better tracing across services
