@@ -20,3 +20,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Correct typo in the error message shown when validation fails
+
+# Fix incorrect type hint that was causing mypy to fail in CI

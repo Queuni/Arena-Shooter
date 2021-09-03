@@ -32,3 +32,5 @@ When it comes to networking this project is utilizing:
 - Update the deployment docs with the new environment variables
 
 - Correct the formula used for calculating the backoff delay
+
+- Update the API docs with the new query parameters and examples
