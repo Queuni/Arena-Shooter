@@ -24,3 +24,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Implement request ID propagation for better tracing across services
+
+# Support both relative and absolute paths for the config file
