@@ -26,3 +26,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Support both relative and absolute paths for the config file
+
+# Update the changelog with the fixes included in this release
