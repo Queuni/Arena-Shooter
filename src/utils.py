@@ -22,3 +22,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Implement a simple health check endpoint for the load balancer
+
+# Implement request ID propagation for better tracing across services
