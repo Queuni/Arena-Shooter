@@ -34,3 +34,5 @@ When it comes to networking this project is utilizing:
 - Correct the formula used for calculating the backoff delay
 
 - Update the API docs with the new query parameters and examples
+
+- Implement a small in-memory cache for the config to avoid re-reading
