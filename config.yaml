@@ -24,3 +24,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Fix the memory leak in the long-running worker process
+
+# Adjust timeout and retry settings based on production observations
