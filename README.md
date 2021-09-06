@@ -36,3 +36,5 @@ When it comes to networking this project is utilizing:
 - Update the API docs with the new query parameters and examples
 
 - Implement a small in-memory cache for the config to avoid re-reading
+
+- Add a note in the README about the breaking change in 2.0

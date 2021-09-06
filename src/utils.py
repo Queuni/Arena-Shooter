@@ -28,3 +28,5 @@
 # Support both relative and absolute paths for the config file
 
 # Update the changelog with the fixes included in this release
+
+# Handle edge case when the response body is empty but status is 200

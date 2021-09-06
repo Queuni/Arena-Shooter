@@ -22,3 +22,5 @@
 # Correct typo in the error message shown when validation fails
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Remove deprecated CLI flag and update docs to use the new option
