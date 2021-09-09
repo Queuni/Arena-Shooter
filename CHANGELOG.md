@@ -18,3 +18,6 @@
 
 ## 2021-09-03
 - Implement request ID propagation for better tracing across services
+
+## 2021-09-09
+- Implement basic rate limiting to avoid overwhelming the downstream service
