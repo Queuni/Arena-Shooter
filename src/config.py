@@ -30,3 +30,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Adjust timeout and retry settings based on production observations
+
+# Fix issue where empty input was not validated before passing to the parser

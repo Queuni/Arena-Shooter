@@ -28,3 +28,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Correct the comparison that was using the wrong operator
+
+# Fix the ordering of middleware so auth runs before the handler

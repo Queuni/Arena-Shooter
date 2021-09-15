@@ -44,3 +44,5 @@ When it comes to networking this project is utilizing:
 - Bump the Docker base image to get the latest security patches
 
 - Implement a small in-memory cache for the config to avoid re-reading
+
+- Bump the version and tag the release in the repo
