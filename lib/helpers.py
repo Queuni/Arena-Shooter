@@ -22,3 +22,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Support environment-specific overrides via separate config files
+
+# Update the example config with all available options and comments

@@ -40,3 +40,5 @@ When it comes to networking this project is utilizing:
 - Add a note in the README about the breaking change in 2.0
 
 - Update dependencies and resolve compatibility warning from pytest
+
+- Bump the Docker base image to get the latest security patches
