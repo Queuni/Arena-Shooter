@@ -28,3 +28,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Bump the tool version and update the pre-commit hook config
+
+# Simplify the CLI by merging the two similar subcommands into one

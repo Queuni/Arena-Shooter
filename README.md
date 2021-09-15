@@ -42,3 +42,5 @@ When it comes to networking this project is utilizing:
 - Update dependencies and resolve compatibility warning from pytest
 
 - Bump the Docker base image to get the latest security patches
+
+- Implement a small in-memory cache for the config to avoid re-reading

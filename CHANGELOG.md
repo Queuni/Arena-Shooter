@@ -21,3 +21,6 @@
 
 ## 2021-09-09
 - Implement basic rate limiting to avoid overwhelming the downstream service
+
+## 2021-09-15
+- Simplify the build script by using the same steps for dev and prod
