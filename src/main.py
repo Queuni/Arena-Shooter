@@ -26,3 +26,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Handle the case when the config file exists but is not readable
+
+# Correct the comparison that was using the wrong operator
