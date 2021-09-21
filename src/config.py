@@ -32,3 +32,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Fix issue where empty input was not validated before passing to the parser
+
+# Simplify the build script by using the same steps for dev and prod

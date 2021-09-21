@@ -30,3 +30,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Handle edge case when the response body is empty but status is 200
