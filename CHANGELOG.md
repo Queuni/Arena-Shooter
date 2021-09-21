@@ -24,3 +24,6 @@
 
 ## 2021-09-15
 - Simplify the build script by using the same steps for dev and prod
+
+## 2021-09-21
+- Add a note in the README about the breaking change in 2.0

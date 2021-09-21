@@ -48,3 +48,5 @@ When it comes to networking this project is utilizing:
 - Bump the version and tag the release in the repo
 
 - Improve error message when the required env var is not set
+
+- Implement basic rate limiting to avoid overwhelming the downstream service
