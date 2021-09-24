@@ -54,3 +54,5 @@ When it comes to networking this project is utilizing:
 - Remove obsolete workaround now that the upstream bug is fixed
 
 - Refactor exports so the public API is clearer and easier to use
+
+- Refactor utils to use a single source of truth for default values
