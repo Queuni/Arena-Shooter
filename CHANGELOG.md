@@ -27,3 +27,6 @@
 
 ## 2021-09-21
 - Add a note in the README about the breaking change in 2.0
+
+## 2021-09-24
+- Handle the duplicate key case by merging the values instead of failing

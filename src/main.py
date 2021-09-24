@@ -30,3 +30,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Improve logging so we can trace requests through the pipeline in production

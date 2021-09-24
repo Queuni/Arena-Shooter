@@ -52,3 +52,5 @@ When it comes to networking this project is utilizing:
 - Implement basic rate limiting to avoid overwhelming the downstream service
 
 - Remove obsolete workaround now that the upstream bug is fixed
+
+- Refactor exports so the public API is clearer and easier to use
