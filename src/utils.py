@@ -32,3 +32,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Simplify the dependency injection so it's easier to mock in tests

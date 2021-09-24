@@ -50,3 +50,5 @@ When it comes to networking this project is utilizing:
 - Improve error message when the required env var is not set
 
 - Implement basic rate limiting to avoid overwhelming the downstream service
+
+- Remove obsolete workaround now that the upstream bug is fixed
