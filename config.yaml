@@ -32,3 +32,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Handle edge case when the response body is empty but status is 200
+
+# Bump the version and tag the release in the repo
