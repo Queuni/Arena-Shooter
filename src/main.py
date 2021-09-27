@@ -32,3 +32,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Bump the version and tag the release in the repo

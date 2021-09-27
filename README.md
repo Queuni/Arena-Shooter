@@ -56,3 +56,5 @@ When it comes to networking this project is utilizing:
 - Refactor exports so the public API is clearer and easier to use
 
 - Refactor utils to use a single source of truth for default values
+
+- Add integration test that covers the full flow from request to response

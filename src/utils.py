@@ -34,3 +34,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Simplify the main loop by extracting request handling into a dedicated function
