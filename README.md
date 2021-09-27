@@ -58,3 +58,5 @@ When it comes to networking this project is utilizing:
 - Refactor utils to use a single source of truth for default values
 
 - Add integration test that covers the full flow from request to response
+
+- Update the deployment docs with the new environment variables
