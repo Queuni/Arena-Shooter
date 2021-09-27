@@ -34,3 +34,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Bump the version and tag the release in the repo
+
+# Simplify the build script by using the same steps for dev and prod
