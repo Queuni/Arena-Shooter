@@ -40,3 +40,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Correct the logic that determined whether to use cache or not
+
+# Remove the temporary debug endpoint before the release

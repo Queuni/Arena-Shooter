@@ -30,3 +30,6 @@
 
 ## 2021-09-24
 - Handle the duplicate key case by merging the values instead of failing
+
+## 2021-09-27
+- Clean up the TODO comments that were already addressed
